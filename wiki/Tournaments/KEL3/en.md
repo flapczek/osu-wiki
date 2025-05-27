@@ -9,7 +9,7 @@ tags:
 
 ![KEL LAN Tournament 3](/wiki/shared/news/2024-11-18-kel-lan-tournament-3/banner.jpg)
 
-**KEL LAN Tournament 3** was a 1v1, double-elimination osu! LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) and ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988).
+**KEL LAN Tournament 3** was a 1v1 double-elimination LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) and ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988). It was the third instalment of the KEL LAN Tournament series.
 
 ## Tournament schedule
 
@@ -189,6 +189,138 @@ This competition has come to an end and resulted in the following podium:
 - Double Time
   1. [Asakura Hinata - Yukitoki (Amateurre) [Gelidium]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)
   2. [Pendulum - Hold Your Colour (GRR SNARL GROWL) [Hold Your Growlr]](https://osu.ppy.sh/beatmapsets/2056846#osu/4880511)
+
+## Match results
+
+### Grand Finals
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **maliszewski** ::{ flag=PL }:: | **7** | 4 | ::{ flag=PH }:: enri | [#1](https://osu.ppy.sh/community/matches/109542483) |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ::{ flag=KR }:: mx10001 | 3 | **7** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109491485) |
+
+### Finals
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **maliszewski** ::{ flag=PL }:: | **7** | 0 | ::{ flag=KR }:: mx10001 | [#1](https://osu.ppy.sh/community/matches/109315200) |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Amamya Kokoro ::{ flag=KR }:: | 1 | **7** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109297530) |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Amamya Kokoro ::{ flag=KR }:: | **0** | -1 | ::{ flag=BR }:: Coreanmaluco | *win by default* |
+| tekkito ::{ flag=US }:: | 0 | **7** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109283339) |
+
+### Semifinals
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mx10001** ::{ flag=KR }:: | **6** | 4 | ::{ flag=US }:: tekkito | [#1](https://osu.ppy.sh/community/matches/109241647) |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| dingleton ::{ flag=US }:: | 0 | **6** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109183610) |
+| **Coreanmaluco** ::{ flag=BR }:: | **6** | 5 | ::{ flag=FR }:: FlasTEH | [#1](https://osu.ppy.sh/community/matches/109183657) |
+| Intercambing ::{ flag=CL }:: | -1 | **0** | ::{ flag=PH }:: **enri** | *win by default* |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Coreanmaluco** ::{ flag=BR }:: | **6** | 1 | ::{ flag=HU }:: defii | [#1](https://osu.ppy.sh/community/matches/109167159) |
+| rudj ::{ flag=JE }:: | 0 | **6** | ::{ flag=FR }:: **FlasTEH** | [#1](https://osu.ppy.sh/community/matches/109169100) |
+| **Intercambing** ::{ flag=CL }:: | **0** | -1 | ::{ flag=US }:: fieryrage | *win by default* |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **maliszewski** ::{ flag=PL }:: | **6** | 2 | ::{ flag=KR }:: Amamya Kokoro | [#1](https://osu.ppy.sh/community/matches/109150370) |
+
+### Quarterfinals
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Amamya Kokoro** ::{ flag=KR }:: | **6** | 2 | ::{ flag=CL }:: Intercambing | [#1](https://osu.ppy.sh/community/matches/109059217) |
+| rudj ::{ flag=JE }:: | 1 | **6** | ::{ flag=KR }:: **mx10001** | [#1](https://osu.ppy.sh/community/matches/109064318) |
+| ChillierPear ::{ flag=US }:: | -1 | **0** | ::{ flag=FR }:: **FlasTEH** | *win by default* |
+| Allegrissimo ::{ flag=KR }:: | 0 | **6** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109067645) |
+| akarinya ::{ flag=DE }:: | 5 | **6** | ::{ flag=US }:: **fieryrage** | [#1](https://osu.ppy.sh/community/matches/109069628) |
+| **defii** ::{ flag=HU }:: | **6** | 2 | ::{ flag=NO }:: Markus | [#1](https://osu.ppy.sh/community/matches/109070146) |
+| **maliszewski** ::{ flag=PL }:: | **6** | 0 | ::{ flag=US }:: dingleton | [#1](https://osu.ppy.sh/community/matches/109070576) |
+| **tekkito** ::{ flag=US }:: | **6** | 4 | ::{ flag=BR }:: Coreanmaluco | [#1](https://osu.ppy.sh/community/matches/109074322) |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **FlasTEH** ::{ flag=FR }:: | **6** | 3 | ::{ flag=US }:: ampy | [#1](https://osu.ppy.sh/community/matches/109045379) |
+| Zoomer ::{ flag=NZ }:: | -1 | **0** | ::{ flag=HU }:: **defii** | *win by default* |
+| **Allegrissimo** ::{ flag=KR }:: | **0** | -1 | ::{ flag=DE }:: rundyyy | *win by default* |
+| Tebi ::{ flag=SG }:: | 2 | **6** | ::{ flag=US }:: **ChillierPear** | [#1](https://osu.ppy.sh/community/matches/109048088) |
+| **akarinya** ::{ flag=DE }:: | **0** | -1 | ::{ flag=US }:: Kama | *win by default* |
+| **enri** ::{ flag=PH }:: | 6 | 0 | ::{ flag=IL }:: PaintedKoala | [#1](https://osu.ppy.sh/community/matches/109051493) |
+| **fieryrage** ::{ flag=US }:: | **6** | 5 | ::{ flag=FI }:: Amasetic | [#1](https://osu.ppy.sh/community/matches/109052856) |
+| Lucrise ::{ flag=RO }:: | -1 | **0** | ::{ flag=NO }:: **Markus** | *win by default* |
+
+### Round of 16
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Intercambing** ::{ flag=CL }:: | **5** | 0 | ::{ flag=NZ }:: Zoomer | [#1](https://osu.ppy.sh/community/matches/108943757) |
+| **dingleton** ::{ flag=US }:: | **5** | 0 | ::{ flag=SG }:: Tebi | [#1](https://osu.ppy.sh/community/matches/108944981) |
+| **mx10001** ::{ flag=KR }:: | **5** | 0 | ::{ flag=KR }:: Allegrissimo | [#1](https://osu.ppy.sh/community/matches/108947459) |
+| **Amamya Kokoro** ::{ flag=KR }:: | **5** | 0 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/108951758) |
+| angelkanna ::{ flag=DE }:: | 1 | **5** | ::{ flag=IL }:: **PaintedKoala** | [#1](https://osu.ppy.sh/community/matches/108952553) |
+| **maliszewski** ::{ flag=PL }:: | **5** | 2 | ::{ flag=FR }:: FlasTEH | [#1](https://osu.ppy.sh/community/matches/108953445) |
+| **Coreanmaluco** ::{ flag=BR }:: | **5** | 3 | ::{ flag=DE }:: akarinya | [#1](https://osu.ppy.sh/community/matches/108955608) |
+| enri ::{ flag=PH }:: | -1 | **0** | ::{ flag=JE }:: **rudj** | *win by default* |
+| **tekkito** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: fieryrage | [#1](https://osu.ppy.sh/community/matches/108959706) |
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ampy** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: -Koda | [#1](https://osu.ppy.sh/community/matches/108926345) |
+| Hanori ::{ flag=BE }:: | 2 | **5** | ::{ flag=FI }:: **Amasetic** | [#1](https://osu.ppy.sh/community/matches/108931734) |
+| F2X ::{ flag=HK }:: | 3 | **5** | ::{ flag=US }:: **ChillierPear** | [#1](https://osu.ppy.sh/community/matches/108933548) |
+| MAREK MARUCHA ::{ flag=PL }:: | -1 | **0** | ::{ flag=HU }:: **defii** | *win by default* |
+| **rundyyy** ::{ flag=DE }:: | **5** | 3 | ::{ flag=US }:: EzChock | [#1](https://osu.ppy.sh/community/matches/108936815) |
+| Fametime ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **Kama** | [#1](https://osu.ppy.sh/community/matches/108937742) |
+| **Markus** ::{ flag=NO }:: | **0** | -1 | ::{ flag=US }:: Altrax | *win by default* |
+
+### Round of 32
+
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MALISZEWSKI** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: MouseR | [#1](https://osu.ppy.sh/community/matches/108829072) |
+| **Allegrissimo** ::{ flag=KR }:: | **5** | 2 | ::{ flag=US }:: Altrax | [#1](https://osu.ppy.sh/community/matches/108830376) |
+| **enri** ::{ flag=PH }:: | **5** | 2 | ::{ flag=PL }:: MAREK MARUCHA | [#1](https://osu.ppy.sh/community/matches/108836617) |
+| -Koda ::{ flag=US }:: | 4 | **5** | ::{ flag=DE }:: **akarinya** | [#1](https://osu.ppy.sh/community/matches/108839899) |
+| ChillierPear ::{ flag=US }:: | 3 | **5** | ::{ flag=US }:: **fieryrage** | [#1](https://osu.ppy.sh/community/matches/108843741) |
+| **Zoomer** ::{ flag=NZ }:: | **0** | -1 | ::{ flag=IL }:: PaintedKoala | *win by default* |
+| **Tebi** ::{ flag=SG }:: | **5** | 3 | ::{ flag=FI }:: Amasetic | [#1](https://osu.ppy.sh/community/matches/108815277), [#2](https://osu.ppy.sh/community/matches/108815863) |
+| **Amamya Kokoro** ::{ flag=KR }:: | **5** | 0 | ::{ flag=DE }:: rundyyy | [#1](https://osu.ppy.sh/community/matches/108817380) |
+| **rudj** ::{ flag=JE }:: | **5** | 0 | ::{ flag=HU }:: defii | [#1](https://osu.ppy.sh/community/matches/108817208) |
+| **mx10001** ::{ flag=KR }:: | **5** | 0 | ::{ flag=NO }:: Markus | [#1](https://osu.ppy.sh/community/matches/108817382) |
+| **Coreanmaluco** ::{ flag=BR }:: | **0** | 4 | ::{ flag=US }:: ampy | [#1](https://osu.ppy.sh/community/matches/108819614) |
+| **maliszewski** ::{ flag=PL }:: | **0** | -1 | ::{ flag=US }:: Fametime | *win by default* |
+| Kama ::{ flag=US }:: | 2 | **5** | ::{ flag=FR }:: **FlasTEH** | [#1](https://osu.ppy.sh/community/matches/108821845) |
+| **Lucrise** ::{ flag=RO }:: | **5** | 3 | ::{ flag=US }:: EzChock | [#1](https://osu.ppy.sh/community/matches/108821728) |
+| **dingleton** ::{ flag=US }:: | **5** | 1 | ::{ flag=BE }:: Hanori | [#1](https://osu.ppy.sh/community/matches/108822856) |
+| **Intercambing** ::{ flag=CL }:: | **0** | -1 | ::{ flag=DE }:: angelkanna | *win by default* |
 
 ## Ruleset
 
