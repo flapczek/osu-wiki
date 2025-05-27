@@ -44,12 +44,12 @@ tags:
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1BuhluTRgwDcNuDyf6s4el5jRYqgj5R3Q0I50LaWCw-8/edit?gid=818956709#gid=818956709)
-- [Announcement post](https://osu.ppy.sh/home/news/2025-05-11-resurrection-cup-2025-registrations-now-open)
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2076778)
-- [Discord server](https://discord.gg/UNzyfgGfeu)
+- [Announcement post](https://osu.ppy.sh/home/news/2024-11-18-kel-lan-tournament-3-signups-now-open)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1987674)
+- [Discord server](https://discord.gg/TSgMXsaZRR)
 - [Livestream](https://www.twitch.tv/keltournaments)
-- [YouTube](https://www.youtube.com/channel/UCtdowLBk7An_UlvtTKrYl0w)
-- [Tournament bracket](https://challonge.com/RESC25)
+- [YouTube](https://www.youtube.com/@KELtournaments)
+- [Tournament bracket](https://challonge.com/kelosu3)
 
 ## Participants
 
