@@ -25,7 +25,7 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge (pending), Wooting UwU RGB |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge, Wooting UwU RGB |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of the prize pool, Wooting UwU |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the prize pool |
 | "4th Place" | 15% of the prize pool |
