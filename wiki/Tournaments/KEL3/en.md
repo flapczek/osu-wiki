@@ -225,6 +225,7 @@ This competition has come to an end and resulted in the following podium:
 9. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
     - First occurrence: A 15-second extension is given along with a verbal warning.
     - On subsequent occurrences: the referee will issue the `!mp start 10` command.
+10. Players got one timeout of 2 minutes per match, both players and the referee, must be in agreement about extending a timeout or having another timeout.
 
 ### Disconnections
 
