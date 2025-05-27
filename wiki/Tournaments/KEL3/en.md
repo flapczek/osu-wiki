@@ -9,22 +9,17 @@ tags:
 
 ![KEL LAN Tournament 3](img/banner.jpg)
 
-**KEL LAN Tournament 3** is a 1v1, double-elimination osu! LAN tournament hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) and ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988).
+**KEL LAN Tournament 3** was a 1v1, double-elimination osu! LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) and ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988).
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-05-11/2025-06-07 |
-| Qualifiers showcase | 2025-05-18 |
-| Qualifiers | 2025-05-18/2025-06-07 |
-| Screening phase | 2025-06-07/2025-06-14 |
-| Round of 32 | 2025-06-20/2025-06-22 |
-| Round of 16 | 2025-06-27/2025-06-29 |
-| Quarterfinals | 2025-07-04/2025-07-06 |
-| Semifinals | 2025-07-11/2025-07-13 |
-| Finals | 2025-07-18/2025-07-20 |
-| Grand Finals | 2025-07-25/2025-07-27 |
+| Registration phase | 2024-10-08/2024-12-02 |
+| Qualifiers | 2024-12-04/2024-12-18 |
+| Screening phase | 2024-12-18/2025-01-04 |
+| Round of 32, Round of 16, Quarterfinals | 2025-02-08 |
+| Semifinals, Finals, Grand Finals | 2025-02-09 |
 
 ## Prizes
 
@@ -55,6 +50,43 @@ tags:
 - [Livestream](https://www.twitch.tv/keltournaments)
 - [YouTube](https://www.youtube.com/channel/UCtdowLBk7An_UlvtTKrYl0w)
 - [Tournament bracket](https://challonge.com/RESC25)
+
+## Participants
+
+|  | Country | Username |
+| :-: | :-: | :-- |
+| ::{ flag=PL }:: | **Poland** | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
+| ::{ flag=PL }:: | **Poland** | [hedayo](https://osu.ppy.sh/users/9323821) |
+| ::{ flag=PL }:: | **Poland** | [Rafis](https://osu.ppy.sh/users/2558286) |
+| ::{ flag=PL }:: | **Poland** | [Michni](https://osu.ppy.sh/users/3543130) |
+| ::{ flag=NO }:: | **Norway** | [NINERIK](https://osu.ppy.sh/users/10549880) |
+| ::{ flag=UA }:: | **Ukraine** | [sharytory](https://osu.ppy.sh/users/16139008) |
+| ::{ flag=US }:: | **United States** | [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| ::{ flag=PL }:: | **Poland** | [eniu](https://osu.ppy.sh/users/5472693) |
+| ::{ flag=UK }:: | **United Kingdom** | [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ::{ flag=UK }:: | **United Kingdom** | [Mahmood](https://osu.ppy.sh/users/7627844) |
+| ::{ flag=PL }:: | **Poland** | [milosz](https://osu.ppy.sh/users/13108233) |
+| ::{ flag=DE }:: | **Germany** | [ZeitFrost](https://osu.ppy.sh/users/11234706) |
+| ::{ flag=PL }:: | **Poland** | [gnahus](https://osu.ppy.sh/users/12779141) |
+| ::{ flag=UA }:: | **Ukraine** | [SHADOW FREAK](https://osu.ppy.sh/users/7587763) |
+| ::{ flag=PL }:: | **Poland** | [Bartek22830](https://osu.ppy.sh/users/6404027) |
+| ::{ flag=NO }:: | **Norway** | [HUNDUR](https://osu.ppy.sh/users/3145033) |
+| ::{ flag=PL }:: | **Poland** | [MouseR](https://osu.ppy.sh/users/9855488) |
+| ::{ flag=UA }:: | **Ukraine** | [RafGPio](https://osu.ppy.sh/users/13705417) |
+| ::{ flag=PL }:: | **Poland** | [Tutka](https://osu.ppy.sh/users/8170022) |
+| ::{ flag=PL }:: | **Poland** | [-BocheN-](https://osu.ppy.sh/users/18567604) |
+| ::{ flag=UK }:: | **United Kingdom** | [LilRaiN00](https://osu.ppy.sh/users/10903895) |
+| ::{ flag=PL }:: | **Poland** | [bobiak](https://osu.ppy.sh/users/13003230) |
+| ::{ flag=PL }:: | **Poland** | [kacperniszon](https://osu.ppy.sh/users/4656634) |
+| ::{ flag=PL }:: | **Poland** | [Sowisty](https://osu.ppy.sh/users/6808620) |
+| ::{ flag=PL }:: | **Poland** | [pokora](https://osu.ppy.sh/users/7109747) |
+| ::{ flag=PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
+| ::{ flag=PL }:: | **Poland** | [masi paws](https://osu.ppy.sh/users/9091312) |
+| ::{ flag=DE }:: | **Germany** | [Bernkastel](https://osu.ppy.sh/users/5154946) |
+| ::{ flag=PL }:: | **Poland** | [SUMMI](https://osu.ppy.sh/users/11883672) |
+| ::{ flag=PL }:: | **Poland** | [ianski](https://osu.ppy.sh/users/10481416) |
+| ::{ flag=PL }:: | **Poland** | [gxdioo](https://osu.ppy.sh/users/15557113) |
+| ::{ flag=PL }:: | **Poland** | [Mikjorn](https://osu.ppy.sh/users/11753451) |
 
 ## Mappools
 
