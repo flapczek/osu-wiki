@@ -31,6 +31,8 @@ tags:
 | "4th Place" | 15% of the prize pool |
 | "5th-6th Place" | 8% of the prize pool |
 
+![](img/badge.png "KEL LAN Tournament 3 winner badge")
+
 ## Organisation
 
 | Position | Member(s) |
