@@ -7,7 +7,7 @@ tags:
 
 # KEL LAN Tournament 3
 
-![KEL LAN Tournament 3](wiki/shared/news/2024-11-18-kel-lan-tournament-3/banner.jpg)
+![KEL LAN Tournament 3](/wiki/shared/news/2024-11-18-kel-lan-tournament-3/banner.jpg)
 
 **KEL LAN Tournament 3** was a 1v1, double-elimination osu! LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) and ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988).
 
