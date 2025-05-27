@@ -34,11 +34,10 @@ tags:
 | Position | Member(s) |
 | :-- | :-- |
 | Organizers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/7696512), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/12840110) |
-| Developers | ::{ flag=VN }:: [ANON TOKYO](https://osu.ppy.sh/users/8266808), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
-| Mappers | 
+| Production Team | ::{ flag=UK }:: [ilw8](https://osu.ppy.sh/users/11483110), ::{ flag=PL }:: [Nerfox](https://osu.ppy.sh/users/7976724), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [memli](https://osu.ppy.sh/users/4027614), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), |
+| Mappers | ::{ flag=PH }:: [_xyliac](https://osu.ppy.sh/users/7989480), ::{ flag=AU }:: [Kyairie](https://osu.ppy.sh/users/10910405), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901) |
 | Playtesters | 
 | Referees | 
-| Streamers | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Knightcakes](https://osu.ppy.sh/users/6992079), ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=VN }:: [SIay](https://osu.ppy.sh/users/9587896), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=RU }:: [ThatAvocado_Boi](https://osu.ppy.sh/users/17118441) |
 | Commentators | 
 
 ## Links
