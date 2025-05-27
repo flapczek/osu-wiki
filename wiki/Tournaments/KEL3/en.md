@@ -198,10 +198,6 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **maliszewski** ::{ flag=PL }:: | **7** | 4 | ::{ flag=PH }:: enri | [#1](https://osu.ppy.sh/community/matches/109542483) |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | ::{ flag=KR }:: mx10001 | 3 | **7** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109491485) |
 
 ### Finals
@@ -210,42 +206,20 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **maliszewski** ::{ flag=PL }:: | **7** | 0 | ::{ flag=KR }:: mx10001 | [#1](https://osu.ppy.sh/community/matches/109315200) |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | Amamya Kokoro ::{ flag=KR }:: | 1 | **7** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109297530) |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | Amamya Kokoro ::{ flag=KR }:: | **0** | -1 | ::{ flag=BR }:: Coreanmaluco | *win by default* |
 | tekkito ::{ flag=US }:: | 0 | **7** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109283339) |
 
 ### Semifinals
 
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | **mx10001** ::{ flag=KR }:: | **6** | 4 | ::{ flag=US }:: tekkito | [#1](https://osu.ppy.sh/community/matches/109241647) |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | dingleton ::{ flag=US }:: | 0 | **6** | ::{ flag=PH }:: **enri** | [#1](https://osu.ppy.sh/community/matches/109183610) |
 | **Coreanmaluco** ::{ flag=BR }:: | **6** | 5 | ::{ flag=FR }:: FlasTEH | [#1](https://osu.ppy.sh/community/matches/109183657) |
 | Intercambing ::{ flag=CL }:: | -1 | **0** | ::{ flag=PH }:: **enri** | *win by default* |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | **Coreanmaluco** ::{ flag=BR }:: | **6** | 1 | ::{ flag=HU }:: defii | [#1](https://osu.ppy.sh/community/matches/109167159) |
 | rudj ::{ flag=JE }:: | 0 | **6** | ::{ flag=FR }:: **FlasTEH** | [#1](https://osu.ppy.sh/community/matches/109169100) |
 | **Intercambing** ::{ flag=CL }:: | **0** | -1 | ::{ flag=US }:: fieryrage | *win by default* |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | **maliszewski** ::{ flag=PL }:: | **6** | 2 | ::{ flag=KR }:: Amamya Kokoro | [#1](https://osu.ppy.sh/community/matches/109150370) |
 
 ### Quarterfinals
@@ -261,10 +235,6 @@ This competition has come to an end and resulted in the following podium:
 | **defii** ::{ flag=HU }:: | **6** | 2 | ::{ flag=NO }:: Markus | [#1](https://osu.ppy.sh/community/matches/109070146) |
 | **maliszewski** ::{ flag=PL }:: | **6** | 0 | ::{ flag=US }:: dingleton | [#1](https://osu.ppy.sh/community/matches/109070576) |
 | **tekkito** ::{ flag=US }:: | **6** | 4 | ::{ flag=BR }:: Coreanmaluco | [#1](https://osu.ppy.sh/community/matches/109074322) |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | **FlasTEH** ::{ flag=FR }:: | **6** | 3 | ::{ flag=US }:: ampy | [#1](https://osu.ppy.sh/community/matches/109045379) |
 | Zoomer ::{ flag=NZ }:: | -1 | **0** | ::{ flag=HU }:: **defii** | *win by default* |
 | **Allegrissimo** ::{ flag=KR }:: | **0** | -1 | ::{ flag=DE }:: rundyyy | *win by default* |
@@ -288,10 +258,6 @@ This competition has come to an end and resulted in the following podium:
 | **Coreanmaluco** ::{ flag=BR }:: | **5** | 3 | ::{ flag=DE }:: akarinya | [#1](https://osu.ppy.sh/community/matches/108955608) |
 | enri ::{ flag=PH }:: | -1 | **0** | ::{ flag=JE }:: **rudj** | *win by default* |
 | **tekkito** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: fieryrage | [#1](https://osu.ppy.sh/community/matches/108959706) |
-
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
 | **ampy** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: -Koda | [#1](https://osu.ppy.sh/community/matches/108926345) |
 | Hanori ::{ flag=BE }:: | 2 | **5** | ::{ flag=FI }:: **Amasetic** | [#1](https://osu.ppy.sh/community/matches/108931734) |
 | F2X ::{ flag=HK }:: | 3 | **5** | ::{ flag=US }:: **ChillierPear** | [#1](https://osu.ppy.sh/community/matches/108933548) |
