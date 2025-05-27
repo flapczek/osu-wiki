@@ -126,7 +126,7 @@ This competition has come to an end and resulted in the following podium:
   2. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Nathan) [Scub x Nathan's Insane]](https://osu.ppy.sh/beatmapsets/1357624#osu/2916949)
   3. [Nekomata Master+ - squall (Reisen Udongein) [Muya's Another]](https://osu.ppy.sh/beatmapsets/127772#osu/335800)
   4. [KikuoHana - Nobore! Susume! Takai Tou (Karen) [Expert]](https://osu.ppy.sh/beatmapsets/528821#osu/1121504)
-  - Tiebreaker
+- Tiebreaker
   1. [nm-y vs. Kry.exe - Kaiju (Aerousea) [Primordial Disintegration Point]](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864)
 
 ### Quarterfinals & Semifinals
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
   1. [V.W.P - Reincarnation (Share) [Crumbling World]](https://osu.ppy.sh/beatmapsets/2258440#osu/4807674)
   2. [SOUND HOLIC - break through the night (Net0) [Stage 6 ~ Tenkyuu Chimata]](https://osu.ppy.sh/beatmapsets/1513750#osu/3105221)
   3. [m108 - Shinku no Senkou (Leader) [Niva's Insane]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298595)
-  - Tiebreaker
+- Tiebreaker
   1. [Umeboshi Chazuke - AJITAMA Adventure OST (toybot) [Egg Quest]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)
 
 ### Round of 32 & Round of 16
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Official HIGE DANdism - Same Blue (Kyouren) [f2alon // Kyouren // Kazuha's Insane]](https://osu.ppy.sh/beatmapsets/2258440#osu/4807674)
   2. [A-One feat. ayaponzu* - Justice Monster (Chizu-Kun) [Insane]](https://osu.ppy.sh/beatmapsets/1513750#osu/3105221)
   3. [kors k - SigSig (AJT) [Nisan's Insane]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298595)
-  - Tiebreaker
+- Tiebreaker
   1. [Down - Kizan (Down) [Slayer]](https://osu.ppy.sh/beatmapsets/2085347#osu/4368642)
 
 ### Qualifiers
