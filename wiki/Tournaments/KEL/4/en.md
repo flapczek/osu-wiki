@@ -23,7 +23,7 @@ tags:
 
 ## Prizes
 
-The KEL LAN Tournament 4 offered a $400 cash prize pool with a keyboard and keypads provided by [Wooting](https://wooting.io/)
+The KEL LAN Tournament 4 offered a $400 cash prize pool. A keyboard and keypads provided by [Wooting](https://wooting.io/).
 
 | Placing | Prize(s) |
 | :-: | :-- |
