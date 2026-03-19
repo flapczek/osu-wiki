@@ -23,6 +23,8 @@ tags:
 
 ## Prizes
 
+The KEL LAN Tournament 4 offered a $400 cash prize pool with a keyboard and keypads provided by [Wooting](https://wooting.io/)
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge, Wooting 60HE v2 |
