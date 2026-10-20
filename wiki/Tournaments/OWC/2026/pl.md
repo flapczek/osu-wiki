@@ -143,8 +143,8 @@ Pełną listę zapisów można znaleźć [tutaj](https://gist.github.com/LeoFLT/
 
 ### Kwalifikacje
 
-**[Tutaj pobierzesz paczkę map (159 MB)](https://packs.ppy.sh/P339%20-%20osu%21%20World%20Cup%202026%3A%20Qualifiers.zip)**\
-[Tutaj obejrzysz VOD'a z prezentacji](https://www.twitch.tv/videos/2904438814)
+**[Pobierz paczkę map tutaj (159 MB)](https://packs.ppy.sh/P339%20-%20osu%21%20World%20Cup%202026%3A%20Qualifiers.zip)**\
+[Obejrzyj VOD'a z prezentacji tutaj](https://www.twitch.tv/videos/2904438814)
 
 - No Mod
   1. [MyGO!!!!! - Utaimashou Narashimashou (Meg) \[Start\]](https://osu.ppy.sh/beatmapsets/2639307#osu/5949195)
@@ -166,110 +166,110 @@ Pełną listę zapisów można znaleźć [tutaj](https://gist.github.com/LeoFLT/
 
 ### Zasady turnieju
 
-1. osu! World Cup to drużynowy turniej 4 na 4 oparty na reprezentacjach krajowych, rozgrywany w trybie osu!. Rozpoczyna się od kwalifikacji, po których następuje faza grupowa. Po fazie grupowej turniej przechodzi do drabinki podwójnej eliminacji, począwszy od 1/8 finału.
-   - Gracze z krajów lub terytoriów (zgodnie z flagą na profilu) znajdujących się pod protektoratem lub zwierzchnictwem innego państwa mogą zdecydować się na grę dla tego państwa, **jeśli** kraj widniejący na ich profilu nie jest w stanie wystawić wystarczającej liczby graczy do utworzenia drużyny. Szczegóły przyjętych kryteriów opisuje [ten artykuł](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories). Gracze, którzy wcześniej reprezentowali inny kraj, mogą nadal to robić.
+1. osu! World Cup to drużynowy turniej 4 na 4 oparty na reprezentacjach krajowych, rozgrywany w trybie gry osu!. Rozpoczyna się od kwalifikacji, po których następuje faza grupowa. Po fazie grupowej turniej przechodzi do drabinki podwójnej eliminacji, począwszy od 1/8 finału.
+   - Gracze z krajów lub terytoriów (zgodnie z flagą widoczną na ich profilu), które znajdują się pod protektoratem lub suwerennością innego państwa, mogą zdecydować się na grę dla tego kraju, **jeśli** kraj widniejący na ich profilu nie jest w stanie wystawić wystarczającej liczby graczy do utworzenia kompletnej drużyny. Szczegóły przyjętych kryteriów opisuje [ten artykuł](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories). Gracze, którzy wcześniej reprezentowali inny kraj, mogą nadal to robić.
 2. Punktacja beatmap opiera się na ScoreV2.
-3. Minimalny skład drużyny to 6 graczy, maksymalny to 8.
+3. Minimalny skład drużyny to 6 graczy, a maksymalny to 8.
 4. Lista beatmap na każdą rundę zostanie ogłoszona przez selekcjonerów mappooli na oficjalnej transmisji, w niedzielę przed rozegraniem meczów.
-5. Harmonogram meczów każdej rundy zostanie ogłoszony przez organizatorów turnieju w niedzielę przed rozegraniem meczów, na tej stronie oraz w arkuszu informacyjnym.
-6. Dozwolone jest korzystanie z ustawień wizualnych w celu zmiany przyciemnienia tła lub wyłączenia elementów beatmapy, takich jak storyboardy i skiny.
+5. Harmonogram meczów każdej rundy zostanie ogłoszony przez menedżerów turnieju w niedzielę przed rozegraniem meczów, na tej stronie oraz w arkuszu informacyjnym.
+6. Użycie Ustawień Wizualnych w celu zmiany przyciemnienia tła lub wyłączenia elementów beatmapy, takich jak storyboardy i skiny, jest dozwolone.
    - Niestandardowe elementy skinów nie mogą być używane do zmiany kluczowych elementów lub mechanik rozgrywki w niezamierzony sposób.
-7. Jeśli w momencie rozpoczęcia meczu któraś z drużyn nie ma wymaganej minimalnej liczby graczy, mecz może zostać opóźniony o maksymalnie 10 minut. Jeśli po tym czasie którakolwiek z drużyn nadal nie ma wystarczającej liczby graczy, wygrana zostanie przyznana stronie z większą liczbą obecnych członków.
+7. Jeśli mniej niż minimalna wymagana liczba graczy jest obecna w momencie rozpoczęcia meczu, mecz może zostać opóźniony o maksymalnie 10 minut. Jeśli po tym czasie którakolwiek z drużyn nadal nie ma wystarczającej liczby graczy, wygrana walkowerem zostanie przyznana stronie z większą liczbą obecnych członków.
    - Minimalna wymagana liczba graczy to liczba graczy potrzebna do rozegrania beatmapy bez wolnych miejsc w lobby (tj. co najmniej 4 uczestników z każdej drużyny musi być obecnych, aby mecz mógł się rozpocząć).
 8. Wymiana zawodników między mapami jest dozwolona bez ograniczeń.
 9. Jeśli mapa zakończy się remisem, zostanie ona unieważniona i rozegrana ponownie.
-10. Drużyny mogą poprosić o powtórkę mapy, jeśli członek drużyny napotka problemy techniczne w ciągu 30 sekund lub 25% czasu trwania beatmapy (drain time) od rozpoczęcia gry (w zależności od tego, co nastąpi szybciej). Sędziowie mogą zarządzić powtórkę niezależnie od drużyn, jeśli istnieją uzasadnione dowody rozłączenia/problemu technicznego. Sędziowie mogą według własnego uznania odrzucić każdą prośbę o powtórkę.
+10. Drużyny mogą poprosić o powtórkę mapy, jeśli członek drużyny napotka problemy techniczne w ciągu 30 sekund lub 25% czasu trwania beatmapy (drain time) (w zależności od tego, co nastąpi szybciej) od rozpoczęcia gry. Sędziowie mogą zarządzić powtórkę niezależnie od obu drużyn, jeśli istnieją uzasadnione dowody rozłączenia/problemu technicznego. Sędziowie mogą według własnego uznania odrzucić wszelkie prośby o powtórkę.
     - "Lag spike'i" nie są uznawane za uzasadniony powód do powtórki beatmapy.
     - Skład każdej drużyny podczas powtórki musi pozostać taki sam jak w pierwotnym podejściu. Jeśli nie jest to możliwe, np. z powodu problemu technicznego uniemożliwiającego graczowi wejście do lobby, obie drużyny będą mogły zmienić skład.
-    - Tej zasady nie wolno nadużywać. Sędziowie mogą odrzucić prośbę o powtórkę, jeśli uznają, że do tego dochodzi.
-11. Jeśli gracz rozłączy się w trakcie mapy, jego wynik nie zostanie wliczony do łącznego wyniku drużyny, chyba że zostanie dostarczony odpowiedni dowód tego wyniku. Za akceptowalny dowód uznaje się:
-    - Fragmenty transmisji na żywo z perspektywy gracza (powszechnie nazywane „klipami” lub „VOD-ami”). Cała rozgrywka wraz z ekranem wyników musi być wyraźnie widoczna, razem z wynikiem danego gracza.
+    - Tej zasady nie wolno nadużywać. Sędziowie mogą odrzucić prośbę o powtórkę, jeśli uznają, że ma to miejsce.
+11. Jeśli gracz rozłączy się w środku gry, jego wynik nie zostanie wliczony do łącznego wyniku jego drużyny, chyba że zostanie dostarczony odpowiedni dowód wspomnianego wyniku. Za akceptowalny dowód uznaje się:
+    - Fragmenty transmisji na żywo z perspektywy gracza (powszechnie nazywane "klipami" lub "VOD-ami"). Cała rozgrywka wraz z ekranem wyników musi być wyraźnie widoczna, razem z wynikiem danego gracza.
     - Pliki powtórek z zagrania, pobrane bezpośrednio z zakładki "Lokalne wyniki" w kliencie danego gracza (znaczniki czasu muszą dokładnie odpowiadać czasowi rozegrania mapy, widocznemu w linku do pokoju multiplayer).
     - Zrzuty ekranu wykonane bezpośrednio w grze przez innych graczy, pokazujące wynik danego gracza.
       - Zrzuty ekranu wyników muszą wyraźnie pokazywać wynik danego gracza. Jest to preferowana metoda.
       - Zrzuty ekranu wykonane w grze w momencie rozłączenia mogą zostać zaakceptowane. Należy pamiętać, że ta metoda nie odzwierciedla dokładnie wyniku gracza. Nie zaleca się korzystania z niej i może ona zostać odrzucona według uznania sędziego, jeśli dostarczone informacje nie wystarczą do identyfikacji gracza/wyniku.
       - Wszystkie zrzuty ekranu **MUSZĄ** być wykonane za pomocą samej gry (używając `Shift` + `F12`), czyli muszą być hostowane w domenie `https://osu.ppy.sh/`. Każda inna forma zrzutu ekranu zostanie odrzucona.
     - W ostateczności wyniki graczy mogą zostać odczytane z oficjalnej transmisji, jeśli mecz był transmitowany.
-12. Od graczy oczekuje się zapewnienia płynnego przebiegu meczu, bez opóźnień. Nadmierne opóźnienia ze strony graczy mogą skutkować nałożeniem kar przez organizatorów turnieju. Zakłócanie meczu poprzez nieczystą grę, obrażanie i prowokowanie innych graczy lub członków staffu, opóźnianie meczu lub inne celowe niewłaściwe zachowanie jest surowo zabronione i będzie odpowiednio karane.
-13. Wszystkich graczy i członków staffu należy traktować z szacunkiem. Należy stosować się do poleceń sędziów i organizatorów turnieju. Od decyzji oznaczonych jako ostateczne nie przysługuje odwołanie.
-14. Pokoje czatu multiplayer podlegają [zasadom społeczności osu!](/wiki/Rules). Wszystkie zasady czatu obowiązują w pokojach multiplayer, w których odbywają się mecze.
-    - Złamanie zasad czatu może skutkować wyciszeniem. Wyciszeni gracze nie mogą brać udziału w meczach multiplayer i muszą zostać zastąpieni na czas trwania kary.
-15. Kary za naruszenie zasad turnieju obejmują między innymi:
-    - Wykluczenie określonych graczy z jednej beatmapy.
-    - Wykluczenie określonych graczy z całego meczu.
-    - Uznanie meczu za poddany lub przyznanie walkowera drużynie przeciwnej.
-    - Dyskwalifikację z całego turnieju.
-    - Dyskwalifikację z bieżącego i przyszłych oficjalnych turniejów, do czasu odwołania.
-16. Sędziowie mogą, według własnego uznania, zezwolić na mniejszą lub większą tolerancję timerów.
-17. Organizatorzy turnieju mogą w dowolnym momencie turnieju, bez wcześniejszego ostrzeżenia, zażądać liveplayów lub nagrań od poszczególnych graczy lub drużyn.
-18. Organizatorzy turnieju są odpowiedzialni za przyjmowanie i rozpatrywanie wszelkich skarg związanych z turniejem.
-19. Organizatorzy turnieju zastrzegają sobie prawo do zmiany niniejszych zasad w dowolnym momencie. Wszelkie takie zmiany zostaną ogłoszone z wyprzedzeniem.
+12. Od graczy oczekuje się utrzymywania płynnego przebiegu meczu oraz bez opóźnień. Nadmierne opóźnienia meczu ze strony graczy mogą skutkować nałożeniem kar przez menedżerów turnieju. Zakłócanie meczu poprzez nieczystą grę, obrażanie i prowokowanie innych graczy lub staffu, opóźnianie meczu lub inne celowe niewłaściwe zachowanie są surowo zabronione i będą odpowiednio karane.
+13. Wszystkich graczy i staff należy traktować z szacunkiem. Należy stosować się do instrukcji od sędziów i menedżerów turnieju. Decyzje oznaczone jako ostateczne nie podlegają odwołaniu.
+14. Pokoje czatu multiplayer podlegają [zasadom społeczności osu!](/wiki/Rules). Wszystkie zasady czatu obowiązują w pokojach czatu multiplayer, w których mecze będą się odbywać.
+    - Złamanie zasad czatu może skutkować wyciszeniem. Wyciszeni gracze nie mogą uczestniczyć w meczach multiplayer i muszą zostać wymienieni na czas trwania kary.
+15. Kary za naruszenie zasad turnieju obejmują, ale nie ograniczają się do:
+    - Wykluczenia określonych graczy na jedną beatmapę.
+    - Wykluczenia określonych graczy na cały mecz.
+    - Uznania meczu za poddany lub jako wygrana walkowerem dla drugiej drużyny.
+    - Dyskwalifikacji z całego turnieju.
+    - Dyskwalifikacji z bieżącego i przyszłych oficjalnych turniejów, do momentu odwołania się.
+16. Sędziowie mogą, według własnego uznania, zezwolić na mniejszą lub większą tolerancję dla timerów.
+17. Menedżerowie turnieju mogą zażądać liveplayów lub nagrań od poszczególnych graczy lub drużyn w dowolnym momencie turnieju bez wcześniejszego ostrzeżenia.
+18. Menedżerowie turnieju będą odpowiedzialni za przyjmowanie i rozpatrywanie wszelkich skarg związanych z turniejem.
+19. Menedżerowie turnieju zastrzegają sobie prawo do modyfikowania tych zasad w dowolnym momencie. Wszelkie takie zmiany zostaną ogłoszone z wyprzedzeniem.
 
 ### Rejestracja do turnieju
 
 1. Każdy użytkownik zainteresowany dołączeniem do drużyny swojego kraju zapisuje się indywidualnie.
-   - Organizatorzy turnieju utworzą listę potencjalnych kandydatów do drużyny danego kraju.
-   - Organizatorzy turnieju wybiorą po jednym przedstawicielu z każdego kraju, w którym zarejestrowało się co najmniej 6 graczy, na prowizorycznego kapitana drużyny.
-   - Prowizoryczny kapitan otrzyma na stronie osu! prywatną wiadomość z dalszymi instrukcjami, wysłaną za pomocą funkcji ogłoszeń, zatytułowaną "osu! World Cup 2026 - Team {Country Name}".
-2. Prowizoryczny kapitan następnie utworzy drużynę, wybierając graczy z puli kandydatów ze swojego kraju.
-   - Od kapitanów oczekuje się uczciwego i rzetelnego wyboru członków drużyny, w celu wystawienia jak najsilniejszego składu.
-   - Od kapitanów oczekuje się przesłania ostatecznej listy drużyny **przed upływem terminu**.
-   - Kapitanowie mogą wykluczyć samych siebie z listy drużyny.
-   - Kapitanowie mogą przeprowadzać i koordynować „tryouty”, czyli testy sprawdzające umiejętności graczy, na własnych zasadach.
-   - Kapitanowie mogą w dowolnym momencie przekazać swoją rolę innemu potencjalnemu członkowi drużyny. Po jej przekazaniu tylko nowy kapitan może przekazać funkcję kapitana kolejnemu graczowi.
-   - Osoby odpowiedzialne za organizację tryoutów w swoim kraju są zachęcane do kontaktu z [LeoFLT](https://osu.ppy.sh/users/3668779) w celu wybrania ich na tymczasowych kapitanów swojej drużyny. 
-   - **Drużyny, które nie prześlą swojej listy do 17 października, 23:59 UTC, zostaną zdyskwalifikowane z rywalizacji.**
-3. Aby zapewnić ważność zgłoszeń, każdy potencjalny uczestnik zostanie ręcznie sprawdzony przez [zespół wsparcia kont](/wiki/People/Account_support_team), w sposób podobny do [weryfikacji turniejowej](/wiki/Tournaments/Official_support#tournament-screening) oferowanej turniejom społeczności.
+   - Menedżerowie turnieju utworzą listę potencjalnych kandydatów do drużyny danego kraju.
+   - Menedżerowie turnieju wybiorą jednego przedstawiciela dla każdego kraju z co najmniej 6 zarejestrowanymi graczami jako tymczasowego kapitana dla tej drużyny.
+   - Tymczasowy kapitan otrzyma prywatną wiadomość na stronie osu! zawierającą dalsze instrukcje za pomocą funkcji ogłoszeń, zatytułowaną "osu! World Cup 2026 - Team {Country Name}".
+2. Tymczasowy kapitan następnie utworzy swoją drużynę poprzez wybieranie graczy z puli kandydatów dla ich kraju.
+   - Od kapitanów oczekuje się wyboru członków drużyny z uczciwością i dobrą wolą, w celu wystawienia najsilniejszej możliwej drużyny
+   - Od kapitanów oczekuje się przesłania ich sfinalizowanej listy drużyny **przed upływem terminu**.
+   - Kapitanowie mają pozwolenie na wykluczenie samych siebie z listy drużyny.
+   - Kapitanowie mają pozwolenie na przeprowadzanie i koordynowanie "tryoutów", testów do oceny predyspozycji graczy, na ich własnych warunkach.
+   - Kapitanowie mają pozwolenie, w dowolnym momencie, na przekazanie swojej roli innym potencjalnym członkom drużyny. Po przekazaniu, tylko nowy kapitan może przypisać funkcję kapitana kolejnemu graczowi.
+   - Użytkownicy odpowiedzialni za organizację tryoutów swojego kraju są zachęcani do kontaktu z [LeoFLT](https://osu.ppy.sh/users/3668779) w celu wybrania ich jako tymczasowych kapitanów dla ich drużyny. 
+   - **Drużyny, które nie prześlą swojej listy drużyny do 17 października, 23:59 UTC, zostaną zdyskwalifikowane z turnieju.**
+3. Aby zapewnić ważność zgłoszeń, każdy potencjalny uczestnik zostanie ręcznie sprawdzony przez [zespół wsparcia kont](/wiki/People/Account_support_team), w sposób podobny do [weryfikacji turniejowej](/wiki/Tournaments/Official_support#tournament-screening), która jest oferowana dla turniejów społeczności.
    - Każdy zarejestrowany użytkownik zostanie przypisany do listy kandydatów swojego kraju.
-   - Aby zostać przyjętym na listę, gracz musi mieć pozycję #10 000 lub wyższą w globalnym rankingu osu! oraz nie mógł naruszyć [zasad społeczności osu!](/wiki/Rules) w ciągu ostatnich 12 miesięcy.
-4. Wszystkie pomyślnie utworzone drużyny zostaną opublikowane na tej stronie po zakończeniu fazy rejestracji.
-   - Aby mieć szansę zagrać w kwalifikacjach, drużyna powinna mieć zarejestrowanych co najmniej 6 graczy.
-5. Członkowie staffu turnieju **nie** mogą brać w nim udziału jako gracze, z wyjątkiem komentatorów, statystyków i streamerów.
-   - Organizatorzy turnieju muszą zapewnić, że tacy członkowie staffu nie mają dostępu do żadnych poufnych danych, np. informacji o wynikach kwalifikacji lub o mappoolu przed jego prezentacją.
+   - Aby zostać pomyślnie przyjętym na listę, gracze muszą mieć pozycję #10 000 lub wyższą w globalnym rankingu osu! oraz nie naruszyć [zasad społeczności osu!](/wiki/Rules) w ciągu ostatnich 12 miesięcy.
+4. Wszystkie pomyślnie utworzone drużyny po zakończeniu fazy rejestracji zostaną opublikowane na tej stronie.
+   - Drużyna powinna mieć zarejestrowanych co najmniej 6 graczy, aby mieć szansę zagrać w kwalifikacjach.
+5. Członkowie staffu turnieju **nie** mają pozwolenia na granie w turnieju, z wyjątkiem komentatorów, statystyków i streamerów.
+   - Menedżerowie turnieju muszą zapewnić, że tacy członkowie staffu nie mają dostępu do żadnych uprzywilejowanych danych, np. informacji o wynikach kwalifikacji lub informacji o mappoolu przed showcase'em mappoola..
 
 ### Instrukcje dotyczące kwalifikacji
 
-1. W kwalifikacjach wszystkie drużyny zagrają określony mappool przygotowany przez selekcjonerów mappooli.
+1. W fazie kwalifikacji wszystkie drużyny zagrają określony mappool przygotowany przez selekcjonerów mappooli.
 2. Mappool będzie zawierał 4 kategorie: No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) i [Double Time](/wiki/Gameplay/Game_modifier/Double_Time). Na tym etapie nie będzie kategorii Free Mod ani tiebreakera.
 3. Mappool kwalifikacji będzie zawierał 11 beatmap, podzielonych następująco:
    - No Mod: 4 beatmapy
    - Hidden: 2 beatmapy
    - Hard Rock: 2 beatmapy
    - Double Time: 3 beatmapy
-4. Drużyny zostaną poproszone o dwukrotne rozegranie mappoola w wybranym przez siebie terminie, z uwzględnieniem dostępności slotów czasowych i obowiązujących terminów. **Do seedowania zostanie wykorzystane tylko najlepsze podejście drużyny na każdej beatmapie, czyli wynik drużyny zgrupowany według beatmapy, widoczny w linku do pokoju multiplayer**.
+4. Drużyny zostaną poproszone o dwukrotne rozegranie mappoola w wybranym przez siebie terminie, z uwzględnieniem dostępności slotów czasowych i obowiązujących terminów. **Tylko najlepsze podejście drużyny na każdej beatmapie, czyli wynik drużyny uzyskany na poszczególnych beatmapach, widoczny w linku do pokoju multiplayer, zostanie wykorzystany do seedingu**.
 5. Mappool należy rozgrywać w kolejności podanej na tej stronie.
-   - W drugim podejściu drużyny mogą pominąć dowolną beatmapę.
-6. Na każdej mapie musi grać 4 członków każdej drużyny. Można ich dowolnie wymieniać po zakończeniu mapy.
-7. Pomiędzy pierwszym a drugim podejściem do mappoola przysługuje opcjonalna 3-minutowa przerwa.
+   - Drużyny mogą pominąć rozegranie dowolnej beatmapy w swoim drugim podejściu.
+6. W każdej drużynie 4 członków musi zagrać każdą mapę. Mogą oni być dowolnie wymieniani po zakończeniu mapy.
+7. Opcjonalna 3-minutowa przerwa zostanie zaoferowana pomiędzy pierwszym a drugim podejściem do mappoola.
 8. Wszystkie drużyny rozegrają kwalifikacje w osobnych pokojach. *Sugeruje się*, aby drużyny nie transmitowały ani nie udostępniały publicznie swoich wyników, aby uniknąć manipulacji seedami.
    - Kilka drużyn może zostać zgrupowanych w jednym pokoju, jeśli w czasie meczu nie będzie wystarczającej liczby dostępnych sędziów.
-9. Metodą seedowania w kwalifikacjach będzie %MAX — najwyższy łączny wynik drużyny na każdej mapie otrzyma 100% punktów (tj. wartość liczbową 1), a każda inna drużyna otrzyma procent tego najwyższego wyniku. Procenty z indywidualnych map zostaną zsumowane, tworząc końcowy wynik drużyny, według którego drużyny zostaną posortowane od najwyższego do najniższego — najwyższy wynik oznacza seed #1.
-   - Dokładny wzór stosowany dla wszystkich drużyn (i dla każdej mapy) to `Map percentage = Team score / MAX score`, gdzie:
-     - `Map percentage` to procent przyznany danej drużynie
-     - `Team score` to wynik uzyskany przez daną drużynę na danej mapie
-     - `MAX score` to najwyższy wynik uzyskany na danej mapie
-   - Końcowy wynik drużyny, według którego odbywa się sortowanie, jest zdefiniowany jako `Final score = SUM(Map percentage)`, tj. suma wartości `Map percentage` ze wszystkich map.
-10. Do następnego etapu awansuje tylko top 40 drużyn. Zostaną one podzielone na trzy kategorie na podstawie wyników kwalifikacji:
-    - Seedy 1-8 otrzymają miano **Legends** (8 drużyn).
-    - Seedy 9-24 otrzymają miano **Challengers** (16 drużyn).
-    - Seedy 25-40 otrzymają miano **Contenders** (16 drużyn).
-11. 8 drużyn z kategorii Legends otrzyma wolny los i awansuje bezpośrednio do 1/8 finału w drabince wygranych.
+9. Metodą seedingu w kwalifikacjach będzie %MAX — najwyższy łączny wynik drużyny na każdej mapie otrzyma 100% punktów (tj. wartość liczbową 1), a każda inna drużyna otrzyma procent tego najwyższego wyniku. Procenty z indywidualnych map zostaną zsumowane, tworząc końcowy wynik tej drużyny, który jest następnie sortowany od najwyższego do najniższego – najwyższy wynik oznacza seed #1.
+   - Dokładny wzór, który będzie stosowany dla wszystkich drużyn (i dla każdej mapy) to `Map percentage = Team score / MAX score`, gdzie:
+     - `Map percentage` to procent przyznany obecnej drużynie
+     - `Team score` to wynik, który obecna drużyna osiągnęła na obecnej mapie
+     - `MAX score` to najwyższy wynik osiągnięty na obecnej mapie
+   - Końcowy wynik drużyny do posortowania jest zdefiniowany jako `Final score = SUM(Map percentage)`, tj. suma wartości `Map percentage` ze wszystkich map.
+10. Tylko top 40 seedowanych drużyn awansuje do następnego etapu. Te drużyny zostaną podzielone na trzy kategorie na podstawie ich wyników kwalifikacji:
+    - Seedy 1-8 zostaną oznaczone jako **Legends** (8 drużyn).
+    - Seedy 9-24 zostaną oznaczone jako **Challengers** (16 drużyn).
+    - Seedy 25-40 zostaną oznaczone jako **Contenders** (16 drużyn).
+11. 8 drużyn z kategorii Legends otrzyma wolny los (bye), awansując bezpośrednio do drabinki wygranych 1/8 finału.
 12. 16 drużyn z kategorii Challengers i 16 drużyn z kategorii Contenders przejdzie do fazy grupowej.
 
 ### Instrukcje dotyczące fazy grupowej
 
-1. Po kwalifikacjach w fazie grupowej wezmą udział drużyny Challengers (seedy 9-24) i Contenders (seedy 25-40).
-2. 16 drużyn z kategorii Challengers zostanie losowo przydzielonych do czterech grup po cztery drużyny. Podobnie 16 drużyn z kategorii Contenders zostanie losowo przydzielonych do czterech grup po cztery drużyny.
-3. Każda drużyna rozegra jeden mecz z każdą inną drużyną w swojej grupie (łącznie trzy mecze). Wszystkie mecze będą rozgrywane w formacie best of 9, z jednym banem dla każdej drużyny.
+1. Po kwalifikacjach w fazie grupowej wezmą udział drużyny z kategorii Challengers (seedy 9-24) i Contenders (seedy 25-40).
+2. 16 drużyn z kategorii Challenger zostanie rozlosowanych do czterech grup po cztery drużyny. Podobnie 16 drużyn z kategorii Contenders zostanie rozlosowanych do czterech grup po cztery drużyny.
+3. Każda drużyna rozegra jeden mecz przeciwko każdej innej drużynie w swojej grupie (łącznie trzy mecze). Wszystkie mecze będą rozgrywane w formacie best of 9, z jednym banem dla każdej drużyny.
 4. O pozycji w grupie decyduje liczba wygranych meczów.
-   - W przypadku remisu w liczbie wygranych meczów, wyższe miejsce zajmie drużyna z większą różnicą punktową, tj. wygrane minus przegrane we wszystkich meczach.
-   - Jeśli remis nadal się utrzymuje, decyduje wynik bezpośredniego meczu.
-   - Jeśli remis wciąż się utrzymuje, o kolejności zdecyduje seed z kwalifikacji.
-5. Po zakończeniu wszystkich meczów grupowych drużyny awansują do fazy pucharowej na podstawie końcowego miejsca w grupie (szczegóły poniżej).
+   - W przypadku remisu w liczbie wygranych meczów, drużyna z większą różnicą punktową, tj. wygrane minus przegrane we wszystkich meczach, zajmie wyższe miejsce.
+   - Jeśli remis nadal się utrzymuje, użyty zostanie wynik bezpośredniego meczu.
+   - Jeśli remis wciąż się utrzymuje, seed z kwalifikacji danej drużyny zostanie użyty jako tiebreaker.
+5. Po zakończeniu wszystkich meczów grupowych, drużyny awansują do fazy pucharowej na podstawie ich ostatecznego miejsca w grupie (szczegóły poniżej).
 
 ### Procedura seedowania w fazie grupowej
 
-Głównym celem losowania fazy grupowej jest zapewnienie, że każda grupa będzie wyrównana, i zapobiega umieszczaniu razem drużyn o podobnych seedach z kwalifikacji. Osiąga się to poprzez podzielenie zarówno drużyn z kategorii Challengers, jak i z kategorii Contenders na cztery koszyki na podstawie ich wyników w kwalifikacjach:
+Głównym celem losowania fazy grupowej jest zapewnienie, że każda grupa będzie zrównoważona, zapobiegając umieszczaniu razem drużyn z podobnymi seedami z kwalifikacji. Osiąga się to poprzez podzielenie zarówno grup z kategorii Challenger, jak i Contender na cztery koszyki na podstawie ich wyników w fazie kwalifikacji, w następujący sposób:
 
 **Challengers (seedy 9–24)**
 
@@ -287,16 +287,16 @@ Głównym celem losowania fazy grupowej jest zapewnienie, że każda grupa będz
 
 #### Proces losowania
 
-Po ustaleniu koszyków losowanie zostanie przeprowadzone na transmisji na żywo. Dla każdej kategorii utworzone zostaną cztery grupy – odpowiednio 1, 2, 3, 4 dla kategorii Challengers oraz 5, 6, 7, 8 dla kategorii Contenders. Proces przebiega następująco:
+Po ustaleniu koszyków, proces losowania zostanie przeprowadzony na transmisji na żywo. Cztery grupy zostaną utworzone dla każdej kategorii – odpowiednio 1, 2, 3, 4 dla kategorii Challengers oraz 5, 6, 7, 8 dla kategorii Contenders. Proces przebiega następująco:
 
 Losowanie rozpoczyna się od drużyn z kategorii Challengers:
 
-1. **Losowanie z pierwszego koszyka:** Jedna drużyna z koszyka 1 zostaje wylosowana i umieszczona w grupie 1. Kolejna trafia do grupy 2 i tak dalej, aż wszystkie cztery drużyny z koszyka 1 zostaną przydzielone do różnych grup. Każda grupa będzie wtedy miała jedną drużynę z najwyższym seedem.
-2. **Losowanie z kolejnych koszyków:** Proces zostaje powtórzony dla koszyka 2. Cztery drużyny z koszyka 2 zostają losowo przydzielone do każdej z czterech grup. Następnie to samo dzieje się z koszykami 3 i 4. Po zakończeniu losowania każda grupa będzie zawierać dokładnie jedną drużynę z każdego z czterech koszyków.
+1. **Losowanie z pierwszego koszyka:** Jedna drużyna z koszyka 1 zostaje wylosowana i umieszczona w grupie 1. Kolejna trafia do grupy 2 i tak dalej, aż wszystkie cztery drużyny z koszyka 1 zostaną przydzielone do różnych grup. Każda grupa będzie wtedy miała jedną najwyżej seedowaną drużynę.
+2. **Losowanie z kolejnych koszyków:** Proces zostaje powtórzony dla koszyka 2. Cztery drużyny z koszyka 2 zostają wylosowane i przydzielone do każdej z czterech grup. Następnie to samo dzieje się z koszykami 3 i 4. Po zakończeniu losowania każda grupa będzie zawierać dokładnie jedną drużynę z każdego z czterech koszyków.
 
-Ten sam proces zostaje powtórzony dla kategorii Contenders, tym razem dla grup 5–8. Po zakończeniu losowania będzie 8 grup.
+Ten sam proces zostaje powtórzony dla kategorii Contenders, tym razem dla grup 5–8. Po zakończeniu procesu losowania będzie 8 grup.
 
-Następnie **wszystkie grupy zostają rozstawione na podstawie ich średniej wyników %MAX z kwalifikacji** — grupa z najwyższą średnią %MAX otrzymuje nazwę „Grupa A”, druga w kolejności „Grupa B” i tak dalej, aż do grupy z najniższą średnią %MAX, czyli „Grupy H”.
+Następnie **wszystkie grupy zostają rozstawione na podstawie ich średniej wyników %MAX z kwalifikacji** — grupa z najwyższą średnią %MAX otrzymuje nazwę "Grupa A", druga w kolejności "Grupa B" i tak dalej, aż do grupy z najniższą średnią %MAX, czyli "Grupy H".
 
 #### Zasady seedowania
 
@@ -305,13 +305,13 @@ Wszystkie awansujące drużyny otrzymają nowe seedy na podstawie następującyc
 **W obrębie grupy:**
 
 1. Wygrane mecze
-2. Bilans punktów (`PD = map wins - map losses`)
+2. Bilans punktów (`BP = wygrane mapy - przegrane mapy`)
 3. Wynik bezpośredniego meczu
 4. Seed z kwalifikacji (tiebreaker)
 
 **Między grupami:**
 
-Grupy są uszeregowane malejąco według średnich wyników %MAX z kwalifikacji. Grupy z wyższym seedem są uważane za silniejsze.
+Grupy są uszeregowane malejąco według średnich wyników %MAX z kwalifikacji. Wyżej seedowane grupy są uważane za silniejsze.
 
 Dla grup Challenger oznacza to, że seedy 1–4 dla fazy pucharowej składają się ze zdobywców 1. miejsca z grup od A do D, podczas gdy 5–8 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Seedy 9–12 będą składać się ze zdobywców 3. miejsca z każdej grupy. Ostatecznie, seedy 13-16 będą składać się ze zdobywców 4. miejsca z każdej grupy.
 
@@ -321,14 +321,14 @@ Na przykład, jeśli drużyny z seedem 1 zarówno z grupy A, jak i B osiągną w
 
 #### Awans do fazy pucharowej
 
-**W fazie grupowej** celem drużyny jest zajęcie jak najwyższego miejsca w grupie. Awans odbywa się według następujących zasad:
+**W fazie grupowej** celem drużyny jest zajęcie jak najwyższego miejsca w swojej grupie. Awans odbywa się według następujących zasad:
 
 - **Grupy Challengers:** Awansuje wszystkie 16 drużyn.
-  - 2 najlepsze drużyny z każdej grupy (łącznie 8) awansują do **1/8 finału w drabince wygranych**.
-  - 2 najsłabsze drużyny z każdej grupy (łącznie 8) awansują do **1/8 finału w drabince przegranych**.
+  - 2 najlepsze drużyny z każdej grupy (łącznie 8) awansują do **1/8 finału drabinki wygranych**.
+  - 2 najsłabsze drużyny z każdej grupy (łącznie 8) awansują do **1/8 finału drabinki przegranych**.
 - **Grupy Contenders:** Awansuje tylko 8 najlepszych drużyn.
-  - 2 najlepsze drużyny z każdej grupy (łącznie 8) awansują do **1/8 finału w drabince przegranych**.
-  - 2 najsłabsze drużyny z każdej grupy (łącznie 8) **odpadają** z turnieju.
+  - 2 najlepsze drużyny z każdej grupy (łącznie 8) awansują do **1/8 finału drabinki przegranych**.
+  - 2 najsłabsze drużyny z każdej grupy (łącznie 8) są **eliminowane** z turnieju.
 
 Ostateczny układ drabinki będzie następujący:
 
@@ -361,30 +361,30 @@ Ostateczny układ drabinki będzie następujący:
 - W fazie grupowej drużyny muszą wygrać 5 map, aby wygrać mecz (best of 9).
 - W 1/8 finału, ćwierćfinałach i półfinałach drużyny muszą wygrać 6 map, aby wygrać mecz (best of 11).
 - W finałach i wielkim finale drużyny muszą wygrać 7 map, aby wygrać mecz (best of 13).
-  - *Uwaga: w meczu wielkiego finału drużyna przychodząca z drabinki wygranych musi wygrać jeden „set”, czyli jedno best of 13, aby wygrać turniej. Drużyna przychodząca z drabinki przegranych musi natomiast wygrać 2 sety.*
+  - *Uwaga: w meczu wielkiego finału, drużyna przychodząca z drabinki wygranych musi wygrać jeden "set", czyli jedno best of 13, aby wygrać turniej. Drużyna przychodząca z drabinki przegranych musi natomiast wygrać 2 sety.*
 
 ### Instrukcje dotyczące meczów
 
 1. Sędzia utworzy pokój multiplayer 10 minut przed zaplanowaną godziną meczu. Drużyny muszą dołączyć do lobby w tym czasie.
    - Ustawienia pokoju to `Game mode: "osu!"`, `Team mode: "Team Vs"` oraz `Score mode: "ScoreV2"`. Nazwa pokoju musi mieć format `OWC2026: ({Red Team}) VS ({Blue Team})`. Drużyna wymieniona jako pierwsza w nazwie pokoju musi być drużyną czerwoną, a drużyna wymieniona jako druga — drużyną niebieską.
 2. W fazie grupowej każda drużyna może zbanować **jedną beatmapę** z mappoola, a od 1/8 finału — **dwie beatmapy**. Zbanowane beatmapy nie mogą zostać wybrane przez żadną z drużyn przez cały mecz.
-   - „Podwójne bany” (tj. zbanowanie dwóch map z tej samej kategorii modów) są dozwolone bez ograniczeń.
-3. Każdy kapitan musi raz użyć `!roll` na czacie meczu. Po rollach faza picków i banów przebiega następująco:
+   - "Podwójne bany" (tj. zbanowanie dwóch map z tej samej kategorii modów) są dozwolone bez ograniczeń.
+3. Każdy kapitan musi raz użyć `!roll` na czacie meczu. Po rollach faza picków i banów będzie składać się z następujących kroków:
    - Zwycięzca `!roll` decyduje, która drużyna **pickuje** pierwsza.
-     - Drużyny mogą stosować „podwójne picki” (tj. wybrać dwie lub więcej map z tej samej kategorii modów pod rząd) bez ograniczeń.
+     - Drużyny mogą stosować "podwójne picki" (tj. wybrać dwie lub więcej map z tej samej kategorii modów pod rząd) bez ograniczeń.
    - Przegrany `!roll` decyduje, która drużyna **banuje** pierwsza.
    - **Od ćwierćfinałów pierwsza drużyna banuje jedną beatmapę, następnie druga drużyna banuje dwie, a na koniec pierwsza drużyna banuje jeszcze jedną.**
-4. Po ustaleniu banów obie drużyny na zmianę wybierają beatmapy z mappoola.
-5. Drużyny mają 2 minuty na wybór beatmapy oraz 2 minuty na naciśnięcie przycisku `Ready` w kliencie. Jeśli drużyna przekroczy limit czasu przy którejkolwiek z tych czynności, zastosowana zostanie następująca procedura:
+4. Po ustaleniu banów, obie drużyny będą na zmianę pickować beatmapę z mappoola.
+5. Drużyny będą miały dozwolone 2 minuty na wybór beatmapy i 2 minuty na naciśnięcie przycisku `Ready` w kliencie. Jeśli drużyna przekroczy limit czasu przy którejkolwiek z tych czynności, zastosowana zostanie następująca procedura:
    - Przy pierwszym przewinieniu:
      - Drużyna otrzyma ustne ostrzeżenie od sędziego; ponadto sędzia może wymusić wykorzystanie przerwy taktycznej drużyny, aby umożliwić jej dokonanie wyboru.
-     - Jeśli drużyna nie wybierze mapy w ciągu 15 sekund od upływu czasu, sędzia zastosuje opisaną poniżej procedurę dla kolejnych przewinień, tj. losowy pick w przypadku limitu na wybór oraz wymuszone rozpoczęcie mapy w przypadku limitu na gotowość.
+     - Jeśli drużyna nie wybierze mapy w ciągu 15 sekund od upływu czasu, sędzia zastosuje opisaną poniżej procedurę dla kolejnych przewinień, tj. losowy pick w przypadku timera wybóru mapy oraz wymuszone rozpoczęcie mapy w przypadku timera gotowości.
    - Przy kolejnych przewinieniach:
-     - Dla timera picku: losowa mapa zostanie wybrana z mappoola za pomocą `!roll X`, gdzie X to liczba beatmap, które nie zostały ani spickowane, ani zbanowane, z wyłączeniem tiebreakera.
+     - Dla timera wyboru mapy: losowa mapa zostanie wybrana z mappoola za pomocą `!roll X`, gdzie X to liczba beatmap, które nie zostały ani spickowane, ani zbanowane, z wyłączeniem tiebreakera.
      - Dla timera gotowości: sędzia użyje komendy `!mp start 10` niezależnie od tego, ilu graczy z każdej drużyny jest obecnych w lobby, używając !mp kick na jakichkolwiek dodatkowych graczach dla każdej drużyny, zaczynając od góry (tj. pierwsza prawidłowa kombinacja graczy dla każdej drużyny zostanie zmuszona do zagrania picka). Wyniki takich map są przyjmowane bez zmian.
-     - Recydywiści mogą otrzymać dodatkowe sankcje od organizatorów turnieju.
+     - Recydywiści mogą otrzymać dodatkowe sankcje od menedżerów turnieju.
 6. Jeśli drużyna rozpocznie mapę z mniejszą niż dozwolona liczbą graczy w składzie z powodu nieprzewidzianych okoliczności (np. problemu technicznego lub nieuniknionej nieobecności gracza), otrzyma prawo do uzupełnienia składu przed rozpoczęciem gry. Pozostała część pierwotnego składu musi pozostać bez zmian — dozwolone jest jedynie dodawanie graczy.
-7. Każda drużyna otrzyma jedną 2-minutową „przerwę taktyczną”, którą może wykorzystać jako dodatkowy czas na ban, pick lub przygotowanie się do beatmapy. *Przerwa taktyczna jest opcjonalna.*
+7. Każda drużyna otrzyma jedną 2-minutową "przerwę taktyczną", którą może wykorzystać jako dodatkowy czas na ban, pick lub przygotowanie się do beatmapy. *Przerwa taktyczna jest opcjonalna.*
    - Przerwa taktyczna może zostać wykorzystana na tiebreakerze **raz** na mecz, pod warunkiem że zgodzą się na to kapitanowie obu drużyn, niezależnie od liczby przerw taktycznych dostępnych dla każdej z drużyn.
 
 ### Informacje o mappoolach
@@ -398,7 +398,7 @@ Ostateczny układ drabinki będzie następujący:
 4. Kategorie Hidden, Hard Rock i Double Time będą rozgrywane z odpowiednimi modami włączonymi u wszystkich graczy.
 5. Niezaliczone wyniki (faile) będą liczone w całości. W tym celu na każdej beatmapie obowiązkowy jest mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail).
    - Drużyny, które zignorują tę instrukcję, grając bez No Faila u co najmniej jednego gracza, i w efekcie sfailują, oddają mapę walkowerem.
-6. Kategoria FreeMod będzie miała włączone „Free Mods”, co oznacza, że gracze będą mogli sami wybrać używane mody.
+6. Kategoria FreeMod będzie miała włączone "Free Mody", co oznacza, że gracze będą mogli sami wybrać używane mody.
    - Dostępne do wyboru mody to Hidden, Hard Rock oraz Hidden + Hard Rock.
    - **Podczas gry na beatmapie FreeMod jeden gracz musi mieć Hidden, a jeden Hard Rock lub Hidden + Hard Rock. Dla pozostałych graczy włączenie modów jest opcjonalne.**
 7. Tiebreaker będzie rozgrywany na zasadach Free Mod, ale gracze będą zwolnieni z wymogu dotyczącego modów.
@@ -406,14 +406,14 @@ Ostateczny układ drabinki będzie następujący:
 ### Informacje o harmonogramie
 
 1. Każdy etap odbędzie się w ciągu **jednego weekendu**.
-2. Mecze kwalifikacyjne będą rozgrywane w określonych slotach czasowych zaproponowanych przez organizatorów turnieju. Każda drużyna może wybrać slot, w którym chce zagrać.
+2. Mecze kwalifikacyjne będą rozgrywane w określonych slotach czasowych zaproponowanych przez menedżerów turnieju. Każda drużyna może wybrać slot czasowy, w którym chce zagrać.
    - **Drużyny, które nie wybiorą slotu czasowego do 22 października, 23:59 UTC, zostaną uznane za zdyskwalifikowane.**
 3. Wszystkie etapy fazy pucharowej będą rozgrywane między sobotą 00:00 a niedzielą 19:00 UTC.
-   - Inne godziny mogą być dostępne na prośbę. Więcej informacji można uzyskać u organizatorów turnieju.
-4. Za ustalanie harmonogramu meczów odpowiadają organizatorzy turnieju. Harmonogramy będą publikowane w niedzielę przed pierwszymi meczami danego etapu. Organizatorzy turnieju postarają się ułożyć harmonogram z uwzględnieniem stref czasowych uczestników.
+   - Inne godziny mogą być dostępne na prośbę. Więcej informacji można uzyskać u menedżerów turnieju.
+4. Za ustalanie harmonogramu meczów odpowiadają menedżerowie turnieju. Harmonogramy będą publikowane w niedzielę przed pierwszymi meczami danego etapu. Menedżerowie turnieju postarają się ułożyć harmonogram z uwzględnieniem stref czasowych uczestników.
    - Od ćwierćfinałów kapitanowie drużyn mogą poinformować organizatorów turnieju, jeśli spodziewają się, że dany slot czasowy będzie dla nich niedostępny w kolejnym tygodniu.
 5. **Przełożenie meczu będzie rozpatrywane tylko wtedy, gdy obie drużyny uzgodnią termin i przekażą go organizatorom turnieju przed środą, 23:59 UTC, w tygodniu, w którym mecz ma się odbyć.**
    - Meczów nie można przekładać na termin późniejszy niż **niedziela, 19:00 UTC** w tygodniu, w którym mają zostać rozegrane.
-   - **Nie proś o przełożenie meczu, jeśli nie jest to absolutnie konieczne. Organizatorzy turnieju zastrzegają sobie prawo do odrzucenia każdej prośby o przełożenie.**
+   - **Nie proś o przełożenie meczu, jeśli nie jest to absolutnie konieczne. Menedżerowie turnieju zastrzegają sobie prawo do odrzucenia każdej prośby o przełożenie.**
    - Spóźnione prośby o przełożenie nie będą przyjmowane w żadnych okolicznościach.
 6. Kapitanowie ponoszą główną odpowiedzialność za dostępność swojej drużyny i będą rozliczani z wszelkich zaniedbań w tym zakresie. Kapitanowie, którzy nie przestrzegają terminów, działają w złej wierze przy przekładaniu meczów lub dopuszczają się podobnych przewinień, podlegają sankcjom wymienionym w sekcji Zasady turnieju, w zasadzie 15.
