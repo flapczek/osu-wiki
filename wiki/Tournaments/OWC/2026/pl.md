@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2026 banner](img/owc2026-banner.jpg)
 
-**osu! World Cup 2026** (***OWC 2026***) to turniej osu! oparty na reprezentacjach krajowych, organizowany przez [zespół osu!](/wiki/People/osu!_team). Jest to siedemnasta edycja osu! World Cup.
+**osu! World Cup 2026** (***OWC 2026***) to oparty na reprezentacjach krajowych turniej osu!, organizowany przez [zespół osu!](/wiki/People/osu!_team). Jest to siedemnasta edycja osu! World Cup.
 
 ## Harmonogram turnieju
 
@@ -82,7 +82,7 @@ Liderzy grup są oznaczeni **pogrubieniem**.
 | ::{ flag=HR }:: | **Chorwacja** | **[tigiexe](https://osu.ppy.sh/users/14125627)**, [-Milfy](https://osu.ppy.sh/users/11013016), [-Rigel-](https://osu.ppy.sh/users/23350068), [KarliXon](https://osu.ppy.sh/users/9283403), [larpbob yes-019](https://osu.ppy.sh/users/15673307), [my angel suobi](https://osu.ppy.sh/users/14898728) |
 | ::{ flag=CZ }:: | **Czechy** | **[Dri3x](https://osu.ppy.sh/users/11478426)**, [fisskill](https://osu.ppy.sh/users/15247939), [leancat](https://osu.ppy.sh/users/14573462), [Toji\_fushiguro\_](https://osu.ppy.sh/users/17381728), [miorn](https://osu.ppy.sh/users/15063171), [lucker](https://osu.ppy.sh/users/10912688), [Shutterstock](https://osu.ppy.sh/users/14362480), [RiceShower](https://osu.ppy.sh/users/12789853) |
 | ::{ flag=DK }:: | **Dania** | **[Sobu](https://osu.ppy.sh/users/13872272)**, [thebeastjona](https://osu.ppy.sh/users/13452017), [i suck LMAO](https://osu.ppy.sh/users/22316482), [resto druid](https://osu.ppy.sh/users/11380904), [Lothjon](https://osu.ppy.sh/users/7369323), [godmorgen](https://osu.ppy.sh/users/24398932), [miina](https://osu.ppy.sh/users/27993601), [fuzzy paws](https://osu.ppy.sh/users/12585714) |
-| ::{ flag=DO }:: | **Dominikana** | **[Skill](https://osu.ppy.sh/users/7802027)**, [Gorrino](https://osu.ppy.sh/users/22782807), [heidy](https://osu.ppy.sh/users/7425199), [Basei](https://osu.ppy.sh/users/14499336), [AshClown](https://osu.ppy.sh/users/8132473), [amatriciana](https://osu.ppy.sh/users/8768214) |
+| ::{ flag=DO }:: | **Republika Dominikańska** | **[Skill](https://osu.ppy.sh/users/7802027)**, [Gorrino](https://osu.ppy.sh/users/22782807), [heidy](https://osu.ppy.sh/users/7425199), [Basei](https://osu.ppy.sh/users/14499336), [AshClown](https://osu.ppy.sh/users/8132473), [amatriciana](https://osu.ppy.sh/users/8768214) |
 | ::{ flag=EE }:: | **Estonia** | **[EvilGamings](https://osu.ppy.sh/users/9929781)**, [Anolikaru](https://osu.ppy.sh/users/33197849), [kellad](https://osu.ppy.sh/users/20447062), [MEGAHELLO](https://osu.ppy.sh/users/11155994), [stennu](https://osu.ppy.sh/users/18340710), [tambet](https://osu.ppy.sh/users/16770581), [The Hassle](https://osu.ppy.sh/users/14061950), [TommeX](https://osu.ppy.sh/users/15860861) |
 | ::{ flag=FI }:: | **Finlandia** | **[Nev-](https://osu.ppy.sh/users/11836334)**, [\[Q\]](https://osu.ppy.sh/users/11479551), [AllyrD](https://osu.ppy.sh/users/9561644), [Amasetic](https://osu.ppy.sh/users/11375251), [Isak-](https://osu.ppy.sh/users/8702650), [Mike Tyson](https://osu.ppy.sh/users/14764185), [savilju](https://osu.ppy.sh/users/8059468), [turqqis](https://osu.ppy.sh/users/15273964) |
 | ::{ flag=FR }:: | **Francja** | **[Musty](https://osu.ppy.sh/users/251683)**, [Hifkil](https://osu.ppy.sh/users/4301976), [Satsukiiii](https://osu.ppy.sh/users/25626082), [MyzeJD](https://osu.ppy.sh/users/3257847), [-bouingue](https://osu.ppy.sh/users/17104779), [Thundur](https://osu.ppy.sh/users/4141918), [fiaee](https://osu.ppy.sh/users/10325072), [JapWhite](https://osu.ppy.sh/users/7068158) |
